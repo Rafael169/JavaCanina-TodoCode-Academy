@@ -18,8 +18,3 @@ Aplicación de escritorio desarrollada en Java que permite gestionar una peluque
 - MySQL
 - Maven 
 - IDE: NetBeans
-
-## 🚀 Instalación
-
-1. Clona el repositorio:
-
